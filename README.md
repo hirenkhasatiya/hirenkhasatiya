@@ -1,34 +1,239 @@
-[![MasterHead](https://1.bp.blogspot.com/-4Q8cuX8et0w/XlPs59l0LrI/AAAAAAAAU-Q/A2NioJfXQY0pavFPS9INBPPv70xxU5zPACLcBGAsYHQ/s1600/api-c99e353f761d318322c853c03ebcf21b.gif)](https://codegrills.in)
+<div align="center">
 
+# 👋 Hey, I'm Hiren Khasatiya
 
+### Flutter Developer • Mobile App Developer • UI/UX Enthusiast
 
-<h1 align="center">Hi 👋, I'm Hiren Khasatiya</h1>
-<h3 align="center">I am Flutter Developer</h3>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirenkhasatiya&label=Profile%20views&color=0e75b6&style=flat" alt="hirenkhasatiya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirenkhasatiya" alt="hirenkhasatiya" /></a> </p>
-
-- 🔭 I’m currently working on **Flutter App Developer**
-
-- 🌱 I’m currently learning **Something New....**
-
-- 💬 Ask me about **Any Flutter Queris**
-
-- 📫 How to reach me **khasatiyahiren43@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/khasatiya_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khasatiya_00" height="30" width="40" /></a>
+<p>
+  <a href="mailto:khasatiyahiren43@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/hiren-khasatiya-a5003a2aa">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/hiren_khasatiya">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=hirenkhasatiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hirenkhasatiya&show_icons=true&locale=en&layout=compact" alt="hirenkhasatiya" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirenkhasatiya&show_icons=true&locale=en" alt="hirenkhasatiya" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirenkhasatiya&" alt="hirenkhasatiya" /></p>
+## 👨‍💻 About Me
+
+I'm **Hiren Khasatiya**, a Flutter Developer focused on building **modern, responsive and production-ready mobile applications**.
+
+I enjoy turning ideas and designs into smooth user experiences with clean, scalable Flutter architecture.
+
+* 🚀 Building mobile applications with **Flutter & Dart**
+* 🎨 Strong interest in **UI/UX, animations & responsive design**
+* 🔥 Working with **Firebase & REST APIs**
+* 🧩 Experienced with **GetX & Provider**
+* 🛠️ Interested in **performance, clean architecture & scalable apps**
+* 👥 Currently working in a **team leadership / code-review role**
+* 🌱 Currently expanding my knowledge of **backend development with Node.js**
+* 💡 I enjoy turning real-world problems into useful applications
+
+> **Build. Learn. Improve. Repeat.**
+
+---
+
+## 🧰 Tech Stack
+
+### 📱 Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+### 🔥 Backend & Services
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,nodejs,express" />
+</p>
+
+### 🛠️ Tools & Workflow
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,androidstudio" />
+</p>
+
+### 📦 Flutter Ecosystem
+
+`GetX` • `Provider` • `REST APIs` • `Firebase` • `Responsive UI` • `Animations` • `Localization` • `Secure Storage`
+
+---
+
+## 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 Mobile Applications
+
+Modern Flutter applications with:
+
+* Responsive UI
+* REST API integration
+* Firebase
+* Authentication
+* State management
+* Animations
+* Localization
+
+</td>
+
+<td width="50%">
+
+### 🎨 UI / UX
+
+I enjoy converting designs into polished interfaces with:
+
+* Figma → Flutter
+* Custom components
+* Responsive layouts
+* Dark mode
+* Micro-interactions
+* Smooth animations
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚡ Performance
+
+I care about:
+
+* Fast API interactions
+* Efficient state management
+* Clean architecture
+* Optimized UI rendering
+* Secure local storage
+
+</td>
+
+<td width="50%">
+
+### 🧠 Problem Solving
+
+I like building applications around **real-world problems**, instead of simply creating demo projects.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 Featured Projects
+
+> A selection of projects I'm building, experimenting with and learning from.
+
+### 📲 Status Saver & Media Utility App
+
+A Flutter-based utility application focused on media management and a smooth user experience.
+
+**Tech:** Flutter • Dart • GetX • Firebase • Android
+
+---
+
+### 💼 Business Management App
+
+A business-focused application concept designed to simplify everyday business operations.
+
+**Tech:** Flutter • Firebase • REST APIs • GetX
+
+---
+
+### 🎨 UI / UX Experiments
+
+A collection of Flutter interfaces, animations and responsive components created to explore modern mobile design patterns.
+
+**Tech:** Flutter • Dart • Figma • Animations
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hirenkhasatiya&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirenkhasatiya&layout=compact&hide_border=true&langs_count=8" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hirenkhasatiya&hide_border=true" />
+
+</div>
+
+---
+
+## 📊 My Development Focus
+
+```text
+Flutter              ████████████████████  90%
+Dart                 ████████████████████  90%
+Firebase             █████████████████     85%
+REST APIs            █████████████████     85%
+GetX / Provider      █████████████████     85%
+UI / UX              ███████████████████   90%
+Node.js              ███████████           55%
+```
+
+---
+
+## 🎯 Currently Learning
+
+```text
+Flutter Architecture
+        ↓
+Production-level App Development
+        ↓
+Node.js + Express
+        ↓
+Backend Development
+        ↓
+Full-Stack Product Development
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in:
+
+**Flutter • Mobile Apps • UI/UX • Open Source • Product Ideas • Collaboration**
+
+<p align="center">
+
+<a href="mailto:khasatiyahiren43@gmail.com">
+<img src="https://img.shields.io/badge/Email-khasatiyahiren43%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/hiren-khasatiya-a5003a2aa">
+<img src="https://img.shields.io/badge/LinkedIn-Hiren%20Khasatiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+**If you find something useful here, feel free to ⭐ a repository.**
+
+</div>
